@@ -1,4 +1,4 @@
-# damirangular2.0
+# damirangular
 +Project built using Angular, Angular Material, Node, Bower, npm, gulp, sass
  +Dynamic application that works in all modern browsers.
  +Used data binding to wire up data model to views.
